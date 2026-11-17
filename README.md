@@ -4,6 +4,8 @@
 
 *English summary below.*
 
+**Präsentation / Slides (EN):** [presentation/Health_Data_Explorer.pdf](presentation/Health_Data_Explorer.pdf)
+
 ## Frage
 
 Was beeinflusst den Körperfettanteil von rund 50.000 Menschen wirklich, und was scheint nur so? Sieben vorgegebene und drei eigene Fragen zu Alter, Geschlecht, Aktivität, Rauchen, BMI und Körperfett.
